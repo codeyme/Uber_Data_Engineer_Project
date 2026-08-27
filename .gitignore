@@ -10,5 +10,6 @@ wheels/
 .venv
 
 .env
+.vscode/
 
 not_for_you/
