@@ -1,6 +1,6 @@
 from pyspark import pipelines as dp
 
-
+# to get the dim passenger data
 # Dim Passenger
 @dp.view
 def dim_passenger_view():
