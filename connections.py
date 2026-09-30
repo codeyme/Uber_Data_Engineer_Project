@@ -66,4 +66,5 @@ if __name__ == "__main__":
     print("SENDING SINGLE RIDE TO EVENT HUB")
     result = send_to_event_hub(ride)
     print(f"Single ride sent to Event Hub: {result}")
+    print(f"ride confirm")
     
