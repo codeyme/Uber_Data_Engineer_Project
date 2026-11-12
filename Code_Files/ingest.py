@@ -1,6 +1,7 @@
 from pyspark import pipelines as dp
 from pyspark.sql.functions import *
 from pyspark.sql.types import *
+from pyspark.sql.orders import *
 
 
 # Event Hubs configuration
